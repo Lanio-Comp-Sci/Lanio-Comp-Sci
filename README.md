@@ -5,5 +5,5 @@
 - 🌱 I’m currently improving ... Python, Java
 - 👯 I’m looking to collaborate on ... AP CSP ideas for students
 - 💬 Ask me about ... connecting Comp Sci with Science Research
-- ⚡ Fun fact: ... I teach Chemistry, Science Research and Computer Science.
+- ⚡ Fun fact: ... I love film and digital photography.
 
